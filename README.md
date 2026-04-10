@@ -1,4 +1,4 @@
-# <h1> <img src="MainLogo.png" width="50"> SmartTime </h1>
+# <h1> <img src="MainLogo.png" width="60"> SmartTime </h1>
 
 SmartTime is a clean and powerful app that tracks how you actually spend your time on your computer.
 It gives you clear insights into your daily usage so you can stay focused and improve your productivity.
