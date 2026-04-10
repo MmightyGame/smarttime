@@ -5,15 +5,15 @@ It gives you clear insights into your daily usage so you can stay focused and im
 
 What you get:
 
-Real-time tracking of app usage
-Clear breakdown of productive vs non-productive time
-Simple and minimal interface
-Smart insights to help you improve your habits
+Real-time tracking of app usage,
+Clear breakdown of productive vs non-productive time,
+Simple and minimal interface,
+Smart insights to help you improve your habits.
 
 Installation:
 
-Go to the "Releases" section
-Download the latest version (.exe)
+Go to the "Releases" section,
+Download the latest version (.exe),\
 Open the file
 
 If Windows shows a warning:
