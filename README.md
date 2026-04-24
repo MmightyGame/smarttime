@@ -19,4 +19,4 @@ If Windows shows a security warning, click More info → Run anyway. SmartTime i
 
 100% local*. No cloud. Just clarity.
 
-*Accounts are saved in the cloud, read Terms Of Serivce&Privacy Policy for more info
+*Accounts are saved in the cloud, read Terms Of Serivce and Privacy Policy for more info
