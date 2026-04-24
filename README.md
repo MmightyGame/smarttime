@@ -17,6 +17,6 @@ Download the latest .exe
 Open and run it
 If Windows shows a security warning, click More info → Run anyway. SmartTime is open and fully local — nothing leaves your machine.
 
-100% local*. No cloud. Just clarity.
+100% local*
 
 *Accounts are saved in the cloud, read Terms Of Serivce and Privacy Policy for more info
