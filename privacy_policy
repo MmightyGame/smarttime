@@ -1,36 +1,54 @@
-Last updated: April 11, 2026
+Last updated: April 24, 2026
 
-Our core promise
-SmartTime collects only the minimum data needed to function. Your activity history never leaves your device. A small set of account and preference data is stored in the cloud so your settings follow you across devices.
+Our core principle
+SmartTime collects minimal data. Most data stays on your device.
 
-1. What we collect
-Activity data — stored locally only: Application name, process name, window title, session start and end time. Written to a SQLite database on your device at %APPDATA%\SmartTime\smarttime.db. This data is never uploaded.
+1. Data we collect
 
-Account data — stored in Firebase (cloud):
+Activity data (stored locally only):
+• Application name
+• Process name
+• Session start and end time
+This data is stored locally on your device and never uploaded.
 
-Email address
-Display name
-Profile photo URL (if set)
-Account creation date
-This data is used for authentication and account management only.
+Account data (stored in Firebase by Google):
+• Email address
+• Display name
+• Profile photo URL
+• Account creation date
 
-App category preferences — stored in Firebase (cloud): Your per-app category assignments (Productive / Neutral / Distracting) are saved to your account under users/{uid}/preferences/appCategories. This allows your productivity settings to persist across devices, reinstalls, and sign-outs. Only you can read or write your own category data.
+This data is used only for authentication and account management.
 
-App settings — stored locally: Refresh interval, idle threshold, debug mode, and other preferences are saved in %APPDATA%\SmartTime\settings.json on your device.
+App category preferences (stored in cloud):
+• Your classification of apps as Productive, Neutral, or Distracting
+Stored under your account to sync across devices.
 
-2. What we do NOT collect
-The content of your documents, messages, or browser tabs
-Screenshots or screen recordings
-Keystrokes or mouse movements
-Any data sent to third-party analytics or advertising services
-3. Data sharing
-We do not sell or share your data with any third party. The only external service used is Firebase (Google), which handles authentication and cloud preference storage. See the Firebase Privacy Policy.
+Local settings (stored locally):
+• App preferences such as refresh interval and idle threshold
 
-4. Data deletion
-You can delete all tracked session history at any time in Settings → Data & Privacy → Delete History. Deleting your account in Profile → Danger Zone removes your Firebase account and all associated cloud data including your category preferences.
-
-5. Auto-updates
-The App checks for updates by contacting GitHub Releases. This reveals your IP address to GitHub, but no activity data is transmitted.
-
-6. Contact
-Privacy concerns can be submitted via the GitHub issues page linked in the About tab.
+2. Data we do NOT collect
+• Document content
+• Messages or emails
+• Screenshots or recordings
+• Keystrokes or mouse activity
+• Any analytics or advertising data
+3. How we use data
+• To provide account access
+• To sync preferences across devices
+• To enable productivity tracking locally
+4. Data sharing
+We do not sell or share your data.
+Data is only processed by Firebase (Google) for authentication and storage.
+5. Data deletion
+You can delete your activity data at any time from within the App.
+You can delete your account, which removes all cloud data associated with it.
+6. Security
+We take reasonable measures to protect your data.
+However, no system is completely secure.
+7. Age
+This App is not intended for users under the age of 13.
+8. Updates
+The App may check for updates via GitHub.
+Your IP address may be visible to GitHub during this process.
+9. Contact
+For privacy questions, contact via Github.
