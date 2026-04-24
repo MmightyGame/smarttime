@@ -1,0 +1,36 @@
+Last updated: April 11, 2026
+
+Our core promise
+SmartTime collects only the minimum data needed to function. Your activity history never leaves your device. A small set of account and preference data is stored in the cloud so your settings follow you across devices.
+
+1. What we collect
+Activity data — stored locally only: Application name, process name, window title, session start and end time. Written to a SQLite database on your device at %APPDATA%\SmartTime\smarttime.db. This data is never uploaded.
+
+Account data — stored in Firebase (cloud):
+
+Email address
+Display name
+Profile photo URL (if set)
+Account creation date
+This data is used for authentication and account management only.
+
+App category preferences — stored in Firebase (cloud): Your per-app category assignments (Productive / Neutral / Distracting) are saved to your account under users/{uid}/preferences/appCategories. This allows your productivity settings to persist across devices, reinstalls, and sign-outs. Only you can read or write your own category data.
+
+App settings — stored locally: Refresh interval, idle threshold, debug mode, and other preferences are saved in %APPDATA%\SmartTime\settings.json on your device.
+
+2. What we do NOT collect
+The content of your documents, messages, or browser tabs
+Screenshots or screen recordings
+Keystrokes or mouse movements
+Any data sent to third-party analytics or advertising services
+3. Data sharing
+We do not sell or share your data with any third party. The only external service used is Firebase (Google), which handles authentication and cloud preference storage. See the Firebase Privacy Policy.
+
+4. Data deletion
+You can delete all tracked session history at any time in Settings → Data & Privacy → Delete History. Deleting your account in Profile → Danger Zone removes your Firebase account and all associated cloud data including your category preferences.
+
+5. Auto-updates
+The App checks for updates by contacting GitHub Releases. This reveals your IP address to GitHub, but no activity data is transmitted.
+
+6. Contact
+Privacy concerns can be submitted via the GitHub issues page linked in the About tab.
