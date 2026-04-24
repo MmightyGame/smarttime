@@ -1,24 +1,22 @@
 # <h1> <img src="MainLogo.png" width="60"> SmartTime </h1>
 
-SmartTime is a clean and powerful app that tracks how you actually spend your time on your computer.
-It gives you clear insights into your daily usage so you can stay focused and improve your productivity.
+Stop guessing where your time goes.
+
+SmartTime runs silently in the background and gives you a clear picture of how you actually spend your day — every app, every project, every minute.
 
 What you get:
 
-Real-time tracking of app usage,
-Clear breakdown of productive vs non-productive time,
-Simple and minimal interface,
-Smart insights to help you improve your habits.
+Real-time app tracking with zero setup
+Instant breakdown of focused work vs. wasted time
+A clean, distraction-free interface that stays out of your way
+Smart daily insights that help you build better habits over time
 
-Installation:
+Getting started:
+Go to the Releases section
+Download the latest .exe
+Open and run it
+If Windows shows a security warning, click More info → Run anyway. SmartTime is open and fully local — nothing leaves your machine.
 
-Go to the "Releases" section,
-Download the latest version (.exe),\
-Open the file
+100% local*. No cloud. Just clarity.
 
-If Windows shows a warning:
-
-Click "More info"
-Click "Run anyway"
-
-SmartTime runs locally and is built to be fast, simple, and distraction-free.
+*Accounts are saved in the cloud, read Terms Of Serivce&Privacy Policy for more info
