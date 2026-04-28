@@ -4,7 +4,7 @@ Stop guessing where your time goes.
 
 SmartTime runs silently in the background and gives you a clear picture of how you actually spend your day — every app, every project, every minute.
 
-# <h1> <img src="Github_banner.png" width="800"></h1>
+# <h1> <img src="Github_banner.png" width="fit"></h1>
 
 What you get:
 
