@@ -1,4 +1,4 @@
-Last updated: April 28, 2026
+Last updated: May 2, 2026
 
 0. Our core principle
 SmartTime collects minimal data. Most data stays on your device.
@@ -10,6 +10,7 @@ SmartTime collects minimal data. Most data stays on your device.
     • Display name
     • Profile photo URL
     • Account creation date
+    • Last Login
   This data is used only for authentication and account management.
 
   App category preferences (stored in cloud):
